@@ -35,3 +35,10 @@ df['Power_Watts'] = df['Torque_Nm'] * df['Rotational_Speed_RPM']
 
 # Isolating temperature efficiency (process vs ambient)
 df['Temp_Delta'] = df['Process_Temp_K'] - df['Air_Temp_K']
+
+
+---
+
+LinkedIn :https://www.linkedin.com/in/vincent-tshidino-a828a0335
+- GitHub: [github.com/Vinny1221](https://github.com/Vinny1221)
+- Email: vincentvee@yahoo.com
