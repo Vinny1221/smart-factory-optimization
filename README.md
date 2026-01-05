@@ -2,6 +2,7 @@
 
 **Role:** Industrial Data Analyst  
 **Tech Stack:** Python (Pandas), SQL, Tableau, Lean Six Sigma  
+**View the interactive dashboard on Tableau Public:** [Smart Factory Production Line & OEE Monitor](https://public.tableau.com/views/SmartFactory-PredictiveMaintenanceOEE/SmartFactoryProductionLineOEEMonitor)
 
 ![Dashboard Preview](dashboard.png)
 
@@ -39,6 +40,6 @@ df['Temp_Delta'] = df['Process_Temp_K'] - df['Air_Temp_K']
 
 ---
 
-LinkedIn :https://www.linkedin.com/in/vincent-tshidino-a828a0335
+LinkedIn :https://www.linkedin.com/in/Vhulenda Vhulenda Vincent-tshidino-a828a0335
 - GitHub: [github.com/Vinny1221](https://github.com/Vinny1221)
-- Email: vincentvee@yahoo.com
+- Email: Vhulenda Vhulenda Vincentvee@yahoo.com
